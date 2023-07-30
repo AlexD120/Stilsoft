@@ -4,7 +4,7 @@ from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.common.by import By
 from base.base_class import Base
 from Page.card_page import Assert_value
-from utilities.logger import Logger
+
 
 
 class Start_page(Base):

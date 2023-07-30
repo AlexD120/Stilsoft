@@ -3,7 +3,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.common.by import By
 from base.base_class import Base
-from utilities.logger import Logger
+
 
 
 class Assert_value(Base):
