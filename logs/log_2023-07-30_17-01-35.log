@@ -1,0 +1,12 @@
+
+-----
+Test: test_stilsoft.py::test_stilSoft_product (call)
+Start time: 2023-07-30 17:01:41.548264
+Start name method: start_assert_product
+
+
+-----
+Test: test_stilsoft.py::test_stilSoft_product (call)
+Start time: 2023-07-30 17:01:46.606628
+Start name method: auto_assert
+
